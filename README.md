@@ -1,5 +1,7 @@
 # Sentinela — Autenticação JWT
 
+[![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-yellow.svg)](LICENSE)
+
 [![Status](https://img.shields.io/badge/status-concluído-bde66a)](https://github.com/RBC-ImktNet/sentinela-auth) [![Full Stack](https://img.shields.io/badge/stack-React_%2B_Express-26312b)](https://expressjs.com/)
 
 ![Demonstração da Sentinela](docs/preview.svg)
@@ -57,3 +59,11 @@ Defina um `JWT_SECRET` longo e aleatório em produção. Os usuários deste proj
 - [Express](https://expressjs.com/en/guide/using-middleware/)
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 - [bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
+
+## Compatibilidade
+
+A interface foi desenvolvida para navegadores modernos. A API requer Node.js 20 ou superior.
+
+## Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
