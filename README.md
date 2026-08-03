@@ -1,5 +1,13 @@
 # Sentinela — Autenticação JWT
 
+[![Status](https://img.shields.io/badge/status-concluído-bde66a)](https://github.com/RBC-ImktNet/sentinela-auth) [![Full Stack](https://img.shields.io/badge/stack-React_%2B_Express-26312b)](https://expressjs.com/)
+
+![Demonstração da Sentinela](docs/preview.svg)
+
+## Demonstração
+
+A aplicação exige uma API Node.js ativa. Consulte as instruções abaixo para executar o fluxo completo localmente.
+
 Aplicação full stack de autenticação com React, Node.js e Express. Demonstra cadastro, login, hash de senhas, emissão de JWT e proteção de rotas.
 
 ## Recursos
